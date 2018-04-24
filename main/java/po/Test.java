@@ -7,7 +7,7 @@ public class Test {
 	
 	public static void display()
 	{
-		System.out.println("haiiiiiiiiiii");
+		System.out.println("haiiiiiiiiiiuui");
 	}
 	
 	
